@@ -1,3 +1,3 @@
 ⠀
-<p> a⠀certain⠀euphoria </p>
+<p align="center"> a⠀certain⠀euphoria </p>
 ⠀
